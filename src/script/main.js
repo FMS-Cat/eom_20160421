@@ -265,7 +265,6 @@
     requestAnimationFrame( update );
 
   };
-  update();
 
   button.onclick = function() {
     update();

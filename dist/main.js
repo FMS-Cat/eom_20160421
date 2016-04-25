@@ -683,7 +683,6 @@ function _classCallCheck(instance, Constructor) {
 
     requestAnimationFrame(update);
   };
-  update();
 
   button.onclick = function () {
     update();
