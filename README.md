@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160421 "Rain of Chars"  
+# Everyday One Motion - 20160421  
+
+"Rain of Chars"  
 
 ![](20160421.gif)  
 
 JavaScript, WebGL, GPGPU Particle  
 
 [Everyday One Motion](http://motions.work/motion/198)  
-[Demo Page](http://fms-cat.github.io/eom_20160421)  
+[Demo Page](http://fms-cat-eom.github.io/20160421/dist)  
 
 ## はじめに
 
